@@ -26,7 +26,7 @@ harassed, notice that someone else is being harassed, or have any concerns,
 please contact an organizer immediately.
 
 ### **Nodeschool Raipur**
-* Organizers: **Jeetendra Choudhary (www.jeetendra.xyz) [@Jeetendra_C](https://twitter.com/jeetendra_c)**
+* Organizers: **[Jeetendra Choudhary](www.jeetendra.xyz) [@Jeetendra_C](https://twitter.com/jeetendra_c)**
 * Email: **mailme[at]jeetendra.xyz**
 
 **If you have questions or feedback about this Code of Conduct please contact
