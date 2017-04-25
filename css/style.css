@@ -1,0 +1,10 @@
+.img-fluid {
+	 width: 30%;
+  	 max-width: 200px;
+}
+
+#hero {
+	background:url("../img/hero-bg.png");
+	height: 600px;
+	width: 100%;
+}
